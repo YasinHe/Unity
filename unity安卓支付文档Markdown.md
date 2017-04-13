@@ -10,7 +10,7 @@
 ***
 ## 支付宝支付部分
 ### 流程图
-![image]()
+![image]( Unity/md图1.png )
 ### unity调用安卓支付代码:
 
 ``` C#
@@ -45,7 +45,7 @@ public void PayResult(string result)
 
 ## 微信支付部分
 ### 流程图
-![image]()
+![image](Unity/md图2.png)
 
 ### 安卓端接收unity的方法接口：
 
