@@ -10,7 +10,7 @@
 ***
 ## 支付宝支付部分
 ### 流程图
-![image]( Unity/md图1.png )
+![image]( https://github.com/YasinHe/Unity/blob/master/md%E5%9B%BE1.png?raw=true )
 ### unity调用安卓支付代码:
 
 ``` C#
