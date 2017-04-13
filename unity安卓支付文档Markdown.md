@@ -45,7 +45,7 @@ public void PayResult(string result)
 
 ## 微信支付部分
 ### 流程图
-![image](Unity/md图2.png)
+![image](https://github.com/YasinHe/Unity/blob/master/md%E5%9B%BE2.png?raw=true)
 
 ### 安卓端接收unity的方法接口：
 
